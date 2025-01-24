@@ -49,7 +49,6 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
 }
 
 .address-link:focus,
@@ -157,9 +156,7 @@ a {
 }
 
 .portfolio-list {
-  display: flex;
   flex-wrap: wrap;
-  gap: 20px;
   justify-content: center;
   padding: 0;
   margin: 0;

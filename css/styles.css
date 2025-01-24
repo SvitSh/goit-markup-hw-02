@@ -68,14 +68,6 @@ a {
   text-align: center;
   color: #fff;
 }
-.biz-heading {
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
-}
 
 .subtitle-base {
   font-weight: 500;
@@ -156,15 +148,12 @@ a {
 }
 
 .portfolio-list {
-  flex-wrap: wrap;
-  justify-content: center;
   padding: 0;
   margin: 0;
 }
 
 .portfolio-item {
   text-align: center;
-  max-width: 360px;
   list-style: none;
 }
 
